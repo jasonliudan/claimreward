@@ -54,7 +54,7 @@ export function App() {
     <BrowserRouter>
       <Helmet
         titleTemplate="%s"
-        defaultTitle="JPOP REWARD"
+        defaultTitle="FLOKI WIFE REWARD"
         htmlAttributes={{ lang: i18n.language }}
       ></Helmet>
       <div style={{ display: 'flex', paddingLeft: '30px', paddingRight: '30px', justifyContent: 'space-between' }}>
